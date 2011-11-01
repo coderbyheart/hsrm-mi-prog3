@@ -1,0 +1,2 @@
+my_strcasecmp.o: my_strcasecmp.c my_tolower.h
+my_tolower.o: my_tolower.c
